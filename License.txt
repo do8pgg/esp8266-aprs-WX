@@ -1,0 +1,22 @@
+  Copyright (c) 2024 do8pgg
+
+  This Code is free software; you can redistribute it and/or
+  modify it under the terms of the Open-source software license for ethical use (OSL-EU),
+  version 2.1 of the License, or (at your option) any later version.
+
+  This Code is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+  Lesser General Public License for more details.
+
+  You should have received a copy of the GNU Lesser General Public
+  License along with this Code; if not, write to the Free Software
+  Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
+
+  If you find this software helpful and would like to express your gratitude,
+  consider buying me a coffee... Or Beer. Your support is greatly appreciated! 😊
+
+  Please note that the use of this software by racists, fascists, or any individuals or organizations
+  promoting hate, discrimination, or any form of illegal or immoral activities is strictly prohibited.
+  By using this software, you confirm that you do not associate it with such disallowed activities
+  and respect democratic principles.
