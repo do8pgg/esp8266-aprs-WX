@@ -17,9 +17,9 @@
 */
 
   #include <Wire.h>
-  #include <AHT20.h>
-  #include <BMP280.h>
-  #include <WiFiManager.h>
+  #include <AHT20.h>          // https://github.com/dvarrel/AHT20
+  #include <BMP280.h>         // https://github.com/dvarrel/BMP280
+  #include <WiFiManager.h>    // tzapu / tablatronix
   #include <WiFiUdp.h>
   #include <ArduinoOTA.h>
 
@@ -234,7 +234,7 @@ void loop() {
   httpServer.handleClient();
 }
 
-void verbinder() {
+void connector() {
   bool res;
   delay(100);
   res = wm.autoConnect(WIFI_SETUP_SSID);
@@ -261,7 +261,7 @@ void webupdater() {
 void setup() {
   Serial.begin(115200);
   pinMode(2, OUTPUT);
-  verbinder();
+  connector();
   delay(1000);
   Wire.begin();
   bmp280.begin();
